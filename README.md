@@ -1,4 +1,4 @@
-# Sum Limit Instructions  
+# Count YZ Instructions  
 ```md 
   Given an input string, count the number of words ending
   in 'y' or 'z' -so the 'y' in "heavy" and the 'z' in "fez"
